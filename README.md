@@ -6,7 +6,7 @@ In Java, every variable has a data type, which determines the range of values th
 The chapter then discusses in more detail than in previous chapters, the use of fields, local variables, and parameters, and there placements within standard stylistic code. The fields usually come first at the top, and the local variables can be set inside a particular constructor or method. Usually fields are private. Fields that are not initialized are automatically 0 or null. 
 Primitive data types are not objects. These data types have different sizes because they occupy different numbers of bytes in memory. 
 The chapter than discusses in detail Strings and the usage of constants in code. 
-Arithmetic expressions are also discussed. The full operator set of +-*/& is presented and also the compound operaters that make code quicker to use. 
+Arithmetic expressions are also discussed. The full operator set of +-*/% is presented and also the compound operaters that make code quicker to use. 
 Then, the chapter discusses how objects and numbers can be displayed within a string using the "+" operator. It also goes over the use of parenthesis in performing arithmetic functions within a display with a string.
 
 ie System.out.println("This is the number " (2 + 2) + n) is different than System.out.println("This is the number " 2 + 2 + n)
